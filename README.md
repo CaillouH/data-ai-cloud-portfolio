@@ -20,4 +20,4 @@ This portfolio showcases **Cloud + Data + AI** projects using **Azure, Databrick
 Azure Data Factory · Snowflake · Databricks Delta Lake · Kafka · MongoDB · Python · SQL · Power BI
 
 ## 📬 Contact
-LinkedIn: linkedin.com/in/kayiukellyho · Email: kellyho.kayiu@gmail.com
+LinkedIn: www.linkedin.com/in/kayiukellyho · Email: kellyho.kayiu@gmail.com
